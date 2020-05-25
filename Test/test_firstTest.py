@@ -1,7 +1,7 @@
 # testing some function
 
-def test_firsttestFunction():
+def test_firsttestF1():
     assert True
 
-def test_secondtestFunction():
-    assert False
+def test_firsttestF2():
+    assert 1 == 1
